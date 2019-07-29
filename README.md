@@ -9,3 +9,7 @@ cufflinks==0.16 <br/>
 ### Data Source
 IGNIS_airdrop_4h.csv is taken from CryptoCompare,
 All datetime is Eastern Time.
+
+### How to Use
+IGNIS_event_study.ipynb to get event study result
+strat.py to get back-testing result
