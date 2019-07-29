@@ -11,5 +11,5 @@ IGNIS_airdrop_4h.csv is taken from CryptoCompare, <br/>
 All datetime is Eastern Time.
 
 ### How to Use
-IGNIS_event_study.ipynb to get event study result, <br/>
+ignis_event_study.ipynb to get event study result, <br/>
 strat.py to get back-testing result.
